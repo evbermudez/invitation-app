@@ -5,6 +5,7 @@ Start here. This vault holds the context and decisions for the project so any co
 - [[Product/Vision]]
 - [[Decisions/Decision Log]]
 - [[Open Questions]]
+- [[Research/Payment options]]
 
 ## How we decide
 Decisions are made by "grilling": one pointed question at a time, each with a recommended answer. Each settled answer gets a note in `Decisions/` and a line in the [[Decisions/Decision Log]].
