@@ -10,7 +10,7 @@ A SaaS app where a host creates an invitation for an event and shares it with gu
 - More fields to be decided (see [[Open Questions]])
 
 ## Pricing
-- Each invitation costs **100 pesos** (assumed MXN), paid by the host.
+- Each invitation costs **100 pesos** (PHP, Philippine pesos), paid by the host.
 - Guests never pay.
 
 ## Platforms
